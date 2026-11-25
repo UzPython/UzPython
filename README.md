@@ -1,36 +1,77 @@
-# 👋 Salom! Men Backend Dasturchiman (UzPython)
-
-### 💫 About Me:
-Men **Backend dasturchiman** — saytlarning ichki qismi (server, REST API, ma'lumotlar bazasi, biznes logika) hamda tezkor **Telegram botlarni** yagona tizimda bog‘lab ishlab chiqaman. Asosiy texnologiyalarim: **Python, Django, Django REST Framework** va **aiogram**.
-
-> *Backend Developer building web server logic, REST APIs, databases, and Telegram bots using Django, Django REST Framework, and aiogram.*
+<!-- Dinamik sarlavha -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=750&lines=Salom!+Men+Backend+Dasturchiman+(UzPython);Django+%7C+Django+REST+Framework+%7C+aiogram;Saytning+ichki+qismi+va+Telegram+botlar+mutaxassisi" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/backenddasturchi/)
+### 👨‍💻 Men haqimda (About Me)
+
+Men **Backend dasturchiman** — murakkab biznes mantiqqa ega veb-saytlarning ichki qismini (**server, REST API, ma'lumotlar bazasi**) hamda biznes jarayonlarini avtomatlashtiruvchi tezkor **Telegram botlarni** yagona ekotizimda ishlab chiqaman.
+
+* 🚀 **Asosiy yo‘nalish:** Web Backend + Telegram Bot integratsiyasi
+* ⚙️ **Nimalar qilaman:** To‘lov tizimlari ulash, murakkab API'lar yaratish, admin panellar va ko‘p bosqichli botlar
+* 🎯 **Maqsad:** Tezkor, xavfsiz va kengaytirishga qulay tizimlar qurish
+
+> *Backend Developer specializing in web server architecture, REST APIs, database design, and high-load Telegram bots using Python, Django, DRF, and aiogram.*
 
 ---
 
-### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Telegram](https://img.shields.io/badge/Telegram_Bot_(aiogram)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🛠 Texnologiyalar (Tech Stack)
 
----
+**Backend & Botlar:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/aiogram_3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</p>
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=UzPython&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="UzPython GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=UzPython&theme=dark&hide_border=false" alt="UzPython streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=UzPython&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+**Ma'lumotlar bazasi & Vositalar:**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=UzPython&icon=0&color=0e75b6&style=flat-square)](https://visitcount.itsvg.in)
+
+### ⚡ Qanday xizmatlar ko‘rsataman?
+
+| Yo‘nalish | Tavsif |
+| :--- | :--- |
+| **🌐 Web Backend (Django / DRF)** | Sayt va mobil ilovalar uchun xavfsiz REST API, avtorizatsiya va admin boshqaruv tizimlari. |
+| **🤖 Telegram Botlar (aiogram)** | Do‘kon, xizmat ko‘rsatish, to‘lov tizimlari va sayt bazasi bilan bog‘langan tezkor botlar. |
+| **🗄 Ma'lumotlar bazasi** | Ma'lumotlar strukturasini loyihalash, so‘rovlarni optimallashtirish va xavfsiz saqlash. |
+
+---
+
+### 🌐 Ijtimoiy tarmoqlar (Socials)
+
+<p align="left">
+  <a href="https://www.instagram.com/backenddasturchi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@backenddasturchi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/UzPython" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-UzPython-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistikasi
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=UzPython&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=UzPython&theme=tokyonight&hide_border=true&layout=compact" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=UzPython&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=UzPython&label=Profilga+tashriflar&color=2EA043&style=for-the-badge" alt="Profile Views" />
+</div>
