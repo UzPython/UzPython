@@ -1,18 +1,36 @@
-# 💫 About Me:
-1. Qisqa va aniq (profilga eng mos)<br>Men Backend dasturchiman. Saytlarning ichki qismi (API, ma'lumotlar bazasi, biznes logika) va Telegram botlar ishlab chiqaman. Asosiy vositalarim: Django, Django REST Framework va aiogram.<br><br>2. Bir oz batafsilroq va amaliy<br>Men Backend dasturchiman — saytning server qismi va Telegram botlarni yagona tizimda bog‘lab ishlayman. Django va Django REST Framework yordamida ishonchli API, baza va biznes mantiq yarataman, aiogram orqali esa tezkor va qulay Telegram botlar quraman.<br><br>3. Loyiha natijasiga urg‘u berilgan variant<br>Backend dasturchi sifatida saytlarning ichki qismini (API, autentifikatsiya, ma'lumotlar bazasi) va biznes jarayonlarini avtomatlashtiruvchi Telegram botlarni ishlab chiqaman. Django, DRF va aiogram bilan ishonchli, kengaytirishga qulay tizimlar yig‘aman.<br><br>4. Inglizcha yoki ikki tilli variant (agar profil xalqaro/umumiy bo‘lsa)<br>Backend Developer building web server logic, REST APIs, databases, and Telegram bots using Django, Django REST Framework, and aiogram.
+# 👋 Salom! Men Backend Dasturchiman (UzPython)
 
+### 💫 About Me:
+Men **Backend dasturchiman** — saytlarning ichki qismi (server, REST API, ma'lumotlar bazasi, biznes logika) hamda tezkor **Telegram botlarni** yagona tizimda bog‘lab ishlab chiqaman. Asosiy texnologiyalarim: **Python, Django, Django REST Framework** va **aiogram**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/backenddasturchi/) 
-
-# 💻 Tech Stack:
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=UzPython&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=UzPython&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=UzPython&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> *Backend Developer building web server logic, REST APIs, databases, and Telegram bots using Django, Django REST Framework, and aiogram.*
 
 ---
-[![](https://komarev.com/ghpvc/?username=UzPython&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/backenddasturchi/)
+
+---
+
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_(aiogram)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=UzPython&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="UzPython GitHub stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=UzPython&theme=dark&hide_border=false" alt="UzPython streak stats" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=UzPython&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+[![Profile Views](https://komarev.com/ghpvc/?username=UzPython&icon=0&color=0e75b6&style=flat-square)](https://visitcount.itsvg.in)
